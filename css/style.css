@@ -29,7 +29,7 @@ body {
   align-items: center;
   padding: 1.4rem 7%;
   flex-direction: column;
-  background-image: url('../img/navbar.png');
+  background-image: url('../img/navbar.webp');
 }
 
 .head .navbar-logo{
@@ -107,7 +107,7 @@ body {
   flex-direction: column;
   align-items: center;
   text-align: center;
-  background-image: url('../img/jadwal.png');
+  background-image: url('../img/jadwal.webp');
   width: 86%;
 	margin: 0 auto;
   padding: 1rem 6%;
